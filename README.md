@@ -2,7 +2,7 @@
 
 I used to be called `ML-10` but now I'm known as **circles.png**!
 
-![](https://komarev.com/ghpvc/?username=ML-10)
+![](https://komarev.com/ghpvc/?username=circles-png)
 
 [![circles.png](https://github-readme-stats.vercel.app/api?username=circles-png&hide=stars,prs&show_icons=true&theme=midnight-purple)](https://github.com/circles-png)
 
